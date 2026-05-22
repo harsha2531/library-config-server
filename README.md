@@ -11,7 +11,7 @@
 
 ## Mandatory Information
 
-- **Student Name**: [Harsha Nimeda]
+- **Student Name**: [B.K.Harsha Nimeda Sirithunga]
 - **Student Number**: [2301691058]
 - **Slack Handle**: [@Harsha_Nimeda]
 - **GCP Project ID**: [indigo-splice-491917-q2]
