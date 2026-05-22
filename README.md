@@ -1,3 +1,6 @@
+
+---
+
 # 2. `config-server`
 
 **Repository About description:**  
@@ -10,7 +13,7 @@
 
 - **Student Name**: [Harsha Nimeda]
 - **Student Number**: [2301691058]
-- **Slack Handle**: [@Harsha Nimeda]
+- **Slack Handle**: [@Harsha_Nimeda]
 - **GCP Project ID**: [indigo-splice-491917-q2]
 
 ## Project Description
